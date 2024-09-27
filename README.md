@@ -4,46 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>README - Responsive React Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    code {
-      background-color: #e6e6e6;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    .code-block {
-      background-color: #e6e6e6;
-      padding: 15px;
-      border-radius: 5px;
-      font-family: monospace;
-    }
-    .code-block pre {
-      margin: 0;
-    }
-    .install-steps {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-      margin-bottom: 20px;
-    }
-    footer {
-      margin-top: 20px;
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
 </head>
 <body>
 
